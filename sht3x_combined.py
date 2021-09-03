@@ -1,4 +1,4 @@
-#Temperature and Humidity Sensor, displayed to 2x6 LCD Display
+#Temperature and Humidity Sensor, displayed to 2x16 LCD Display
 
 #Raspberry Pi Pico Pins as follows:
 
