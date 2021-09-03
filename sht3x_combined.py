@@ -21,7 +21,7 @@ from pico_i2c_lcd import I2cLcd
 def initial_display():
     lcd.backlight_on()
     lcd.clear()
-    lcd.putstr("Created by Nick")
+    lcd.putstr("Version 1.0")
     lcd.move_to(0,1)
     lcd.putstr("Starting...")
     utime.sleep(1)
